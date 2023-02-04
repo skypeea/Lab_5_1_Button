@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"D:\source\RevitApps\Lab_5_1_Button.dll"</Assembly>
+		<AddInId>DDED5BAF-F5DE-4818-9992-53841BBE8A3E</AddInId>
+		<FullClassName>Lab_5_1_Button.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Buttons</Text>
+	</AddIn>
+</RevitAddIns>
